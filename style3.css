@@ -1,0 +1,18 @@
+.div5{
+    background-color: lightgrey;
+    width: 800px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    text-align: justify;
+  text-justify: inter-word;
+  }
+  .div6{
+    background-color: lightgrey;
+    width: 800px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    text-align: justify;
+  text-justify: inter-word;
+  }

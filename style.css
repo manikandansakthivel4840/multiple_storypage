@@ -1,0 +1,33 @@
+body{
+    background: url("./greenary_landscape-2880x1800.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px lightgoldenrodyellow;
+    opacity: 0.2;
+    }
+    .main{
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid black;
+    border-radius: 20% 0% 20% 0%;
+    }
+    h3{
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    color: aqua;
+    }
+    h1{
+    margin-bottom: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px brown;
+}
+img:hover{
+opacity: 1;
+}
